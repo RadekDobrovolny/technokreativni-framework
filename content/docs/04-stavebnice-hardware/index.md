@@ -1,6 +1,6 @@
 ---
 title: Stavebnice a hardware
-weight: 1
+weight: 85
 ---
 # Stavebnice a hardware
 

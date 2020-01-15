@@ -1,6 +1,6 @@
 ---
 title: Informatické myšlení
-weight: 1
+weight: 95
 ---
 # Informatické myšlení
 
