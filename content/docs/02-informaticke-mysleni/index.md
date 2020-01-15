@@ -4,4 +4,4 @@ weight: 1
 ---
 # Informatické myšlení
 
-Bla bla
+Informatické myšlení
