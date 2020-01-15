@@ -19,5 +19,86 @@
       <description>Changelog 2019-12-17 Založení webové stránky</description>
     </item>
     
+    <item>
+      <title>Informatické myšlení</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/02-informaticke-mysleni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/02-informaticke-mysleni/</guid>
+      <description>Informatické myšlení Informatické myšlení</description>
+    </item>
+    
+    <item>
+      <title>Komunita</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/07-komunita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/07-komunita/</guid>
+      <description>Komunita Komunita</description>
+    </item>
+    
+    <item>
+      <title>Kreativní programování</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/05-kreativni-programovani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/05-kreativni-programovani/</guid>
+      <description>Kreativní programování Kreativní programování</description>
+    </item>
+    
+    <item>
+      <title>Odkazy</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/99-odkazy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/99-odkazy/</guid>
+      <description>Odkazy Odkazy</description>
+    </item>
+    
+    <item>
+      <title>Stavebnice a hardware</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/04-stavebnice-hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/04-stavebnice-hardware/</guid>
+      <description>Stavebnice a hardware Stavebnice a hardware</description>
+    </item>
+    
+    <item>
+      <title>Tvůrčí dílna</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/06-tvurci-dilna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/06-tvurci-dilna/</guid>
+      <description>Tvůrčí dílna Tvůrčí dílna</description>
+    </item>
+    
+    <item>
+      <title>Výukové nástroje</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/</guid>
+      <description>Výukové nástroje Výukové nástroje</description>
+    </item>
+    
+    <item>
+      <title>Zdroje</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/08-zdroje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/08-zdroje/</guid>
+      <description>Zdroje Zdroje</description>
+    </item>
+    
+    <item>
+      <title>Úvod</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/01-uvod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/01-uvod/</guid>
+      <description>Úvod Úvod</description>
+    </item>
+    
   </channel>
 </rss>
