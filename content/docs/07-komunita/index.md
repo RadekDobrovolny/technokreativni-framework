@@ -1,6 +1,6 @@
 ---
 title: Komunita
-weight: 70
+weight: 7
 ---
 # Komunita
 

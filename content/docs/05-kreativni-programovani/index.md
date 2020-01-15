@@ -1,6 +1,6 @@
 ---
 title: Kreativní programování
-weight: 80
+weight: 5
 ---
 # Kreativní programování
 

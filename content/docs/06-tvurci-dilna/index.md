@@ -1,6 +1,6 @@
 ---
 title: Tvůrčí dílna
-weight: 75
+weight: 6
 ---
 # Tvůrčí dílna
 
