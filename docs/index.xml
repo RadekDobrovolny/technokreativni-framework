@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>Úvod</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/01-uvod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/01-uvod/</guid>
+      <description>Úvod Úvod</description>
+    </item>
+    
+    <item>
+      <title>Informatické myšlení</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/02-informaticke-mysleni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/02-informaticke-mysleni/</guid>
+      <description>Informatické myšlení Informatické myšlení</description>
+    </item>
+    
+    <item>
       <title>Without ToC</title>
       <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/example/table-of-contents/without-toc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,6 +56,69 @@
       <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/example/table-of-contents/without-toc/</guid>
       <description>At me ipso nepotibus nunc celebratior genus Tanto oblite Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
 Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
+    </item>
+    
+    <item>
+      <title>Výukové nástroje</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/</guid>
+      <description>Výukové nástroje Výukové nástroje</description>
+    </item>
+    
+    <item>
+      <title>Stavebnice a hardware</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/04-stavebnice-hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/04-stavebnice-hardware/</guid>
+      <description>Stavebnice a hardware Stavebnice a hardware</description>
+    </item>
+    
+    <item>
+      <title>Kreativní programování</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/05-kreativni-programovani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/05-kreativni-programovani/</guid>
+      <description>Kreativní programování Kreativní programování</description>
+    </item>
+    
+    <item>
+      <title>Tvůrčí dílna</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/06-tvurci-dilna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/06-tvurci-dilna/</guid>
+      <description>Tvůrčí dílna Tvůrčí dílna</description>
+    </item>
+    
+    <item>
+      <title>Komunita</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/07-komunita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/07-komunita/</guid>
+      <description>Komunita Komunita</description>
+    </item>
+    
+    <item>
+      <title>Zdroje</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/08-zdroje/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/08-zdroje/</guid>
+      <description>Zdroje Zdroje</description>
+    </item>
+    
+    <item>
+      <title>Odkazy</title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/99-odkazy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/99-odkazy/</guid>
+      <description>Odkazy Odkazy</description>
     </item>
     
     <item>
@@ -59,87 +140,6 @@ We&#39;ll start with creating a new site with a very basic template.</descriptio
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&#39;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Odkazy</title>
-      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/99-odkazy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/99-odkazy/</guid>
-      <description>Odkazy Odkazy</description>
-    </item>
-    
-    <item>
-      <title>Zdroje</title>
-      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/08-zdroje/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/08-zdroje/</guid>
-      <description>Zdroje Zdroje</description>
-    </item>
-    
-    <item>
-      <title>Komunita</title>
-      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/07-komunita/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/07-komunita/</guid>
-      <description>Komunita Komunita</description>
-    </item>
-    
-    <item>
-      <title>Tvůrčí dílna</title>
-      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/06-tvurci-dilna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/06-tvurci-dilna/</guid>
-      <description>Tvůrčí dílna Tvůrčí dílna</description>
-    </item>
-    
-    <item>
-      <title>Kreativní programování</title>
-      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/05-kreativni-programovani/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/05-kreativni-programovani/</guid>
-      <description>Kreativní programování Kreativní programování</description>
-    </item>
-    
-    <item>
-      <title>Stavebnice a hardware</title>
-      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/04-stavebnice-hardware/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/04-stavebnice-hardware/</guid>
-      <description>Stavebnice a hardware Stavebnice a hardware</description>
-    </item>
-    
-    <item>
-      <title>Výukové nástroje</title>
-      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/</guid>
-      <description>Výukové nástroje Výukové nástroje</description>
-    </item>
-    
-    <item>
-      <title>Informatické myšlení</title>
-      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/02-informaticke-mysleni/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/02-informaticke-mysleni/</guid>
-      <description>Informatické myšlení Informatické myšlení</description>
-    </item>
-    
-    <item>
-      <title>Úvod</title>
-      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/01-uvod/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/01-uvod/</guid>
-      <description>Úvod Úvod</description>
     </item>
     
     <item>
