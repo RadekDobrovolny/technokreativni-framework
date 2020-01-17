@@ -12,6 +12,15 @@
     
     
     <item>
+      <title></title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/scratch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/scratch/</guid>
+      <description>Scratch Scratch</description>
+    </item>
+    
+    <item>
       <title>With ToC</title>
       <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/example/table-of-contents/with-toc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,6 +37,15 @@
       
       <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/01-uvod/</guid>
       <description>Úvod Úvod</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/hour-of-code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/hour-of-code/</guid>
+      <description>Hour of Code Hour of Code</description>
     </item>
     
     <item>
@@ -50,12 +68,21 @@ Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt d
     </item>
     
     <item>
-      <title>Výukové nástroje</title>
-      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/</link>
+      <title></title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/zelvi-grafika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/</guid>
-      <description>Výukové nástroje Výukové nástroje</description>
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/zelvi-grafika/</guid>
+      <description>Želví grafika Želví grafika</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/snap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://radekdobrovolny.github.io/technokreativni-framework/docs/03-vyukove-nastroje/snap/</guid>
+      <description>Snap! Snap!</description>
     </item>
     
     <item>
