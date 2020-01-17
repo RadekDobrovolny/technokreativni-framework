@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://radekdobrovolny.github.io/technokreativni-framework/docs/changelog/</loc>
-  </url>
-  
-  <url>
     <loc>https://radekdobrovolny.github.io/technokreativni-framework/docs/example/</loc>
   </url>
   
@@ -70,6 +66,10 @@
   
   <url>
     <loc>https://radekdobrovolny.github.io/technokreativni-framework/docs/example/2nd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://radekdobrovolny.github.io/technokreativni-framework/docs/changelog/</loc>
   </url>
   
   <url>
